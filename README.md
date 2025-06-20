@@ -1,8 +1,8 @@
 ### Currency Converter
-● Collaborated with a team to develop a Java-based currency converter application designed to provide accurate currency exchange values.
+● Collaborated with a team to develop a Java-based currency converter for accurate real-time exchange calculations.
 
-● Designed and developed an intuitive user interface to allow users to easily input amounts and select currencies for conversion.
+● Designed and implemented an intuitive graphical user interface (GUI) to streamline user input and currency selection.
 
-● Conducted rigorous testing to ensure the application delivered accurate exchange rates and handled edge cases effectively.
+● Utilized **Java** for backend development, emphasizing robust exception handling and precise currency conversion logic.
 
-● Utilized **Java** for backend development, focusing on robust exception handling and accurate calculations.
+● Conducted comprehensive testing to ensure accuracy, performance, and resilience to edge cases and input errors.
